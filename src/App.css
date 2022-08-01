@@ -1,0 +1,24 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(
+    to left,
+    rgba(76, 0, 255, 0.363),
+    teal
+    );
+  text-align: center;
+  font-family: 'Pokemon Solid', Arial, Helvetica, sans-serif;
+  /* font-family: 'Childzone', sans-serif; */
+
+  
+}
+
+.app-title {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 100px;
+  color:rgba(255, 136, 0, 0.767);
+  font-weight: 100;
+  
+}
